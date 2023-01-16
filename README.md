@@ -1,2 +1,2 @@
-# NeoloadDemo
-NeoloadDemo
+# neoload-sample-project
+Neoload project
