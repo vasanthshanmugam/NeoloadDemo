@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    name="/actions/Account.action;jsessionid=FCD7B64357E1976CCEA67A4E4217216B"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@sign@in/%resources%/recorded-artifacts/1dfd5051-e106-4a5d-8d08-82ec930e2f09.zip"
+    slaProfileEnabled="false" thinkTime="8421"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1dfd5051-e106-4a5d-8d08-82ec930e2f09">
+    <embedded-action>2745944b-5450-44f0-9c0d-23e65e7558f6</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/actions/Account.action;jsessionid=FCD7B64357E1976CCEA67A4E4217216B"
+    path="/actions/Account.action;jsessionid=${JSESSIONID}" postType="6"
+    recordedArtifactZipFileName="team/vus/@sign@in/%resources%/recorded-artifacts/1dfd5051-e106-4a5d-8d08-82ec930e2f09.zip"
+    recordedResponseCode="200"
+    refererUid="8a00cc18-f19d-4d81-b881-fd4fedaa056e"
+    responseSize="3626" serverUid="petstore.octoperf.com"
+    slaProfileEnabled="false" uid="2745944b-5450-44f0-9c0d-23e65e7558f6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2745944b-5450-44f0-9c0d-23e65e7558f6.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2745944b-5450-44f0-9c0d-23e65e7558f6.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="signonForm"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="referer" value="https://petstore.octoperf.com/actions/Catalog.action"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="SL_G_WPT_TO=en; SL_GWPT_Show_Hide_tmp=1; SL_wptGlobTipTmp=1; JSESSIONID=${JSESSIONID}"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 05 Dec 2022 23:17:28 GMT&#xd;
+content-type: text/html;charset=UTF-8&#xd;
+content-length: 3626&#xd;
+content-language: en&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorContent="Sign In" extractorOccurence="3"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

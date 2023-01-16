@@ -1,0 +1,40 @@
+<me-host browserBasedSupport="false" citrixSupport="false"
+    loadWeight="1" sapSupport="false" standalone="false"
+    supportWANEmulation="false" uid="localhost" version="9.0.1;build=20220923-87">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="127.0.0.1">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Realtek RTL8821CE 802.11ac PCIe Adapter"
+        enabled="false" isLoopBack="false" name="wlan2">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="desktop-83iv6d1.home">
+            <ip value="192.168.0.16"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2a02:c7f:6033:a500:2947:80e:8ddc:ade4">
+            <ip value="2a02:c7f:6033:a500:2947:80e:8ddc:ade4"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2a02:c7f:6033:a500:b8b4:4066:5d0c:b390">
+            <ip value="2a02:c7f:6033:a500:b8b4:4066:5d0c:b390"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fde1:889c:1fde:0:282:8a7d:a23b:7cd6">
+            <ip value="fde1:889c:1fde:0:282:8a7d:a23b:7cd6"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fde1:889c:1fde:0:ad5d:fe7:7c55:5025">
+            <ip value="fde1:889c:1fde:0:ad5d:fe7:7c55:5025"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:86ec:db81:c3a3:8b77%wlan2">
+            <ip value="fe80:0:0:0:86ec:db81:c3a3:8b77%wlan2"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</me-host>

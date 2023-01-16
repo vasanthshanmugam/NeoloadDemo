@@ -1,0 +1,14 @@
+GET https://petstore.octoperf.com/images/splash.gif HTTP/2.0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-origin
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://petstore.octoperf.com/actions/Catalog.action
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: SL_G_WPT_TO=en; SL_GWPT_Show_Hide_tmp=1; SL_wptGlobTipTmp=1; JSESSIONID=FCD7B64357E1976CCEA67A4E4217216B
+

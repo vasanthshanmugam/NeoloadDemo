@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="02_EnterTheStore" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="785afb1c-42b7-4f40-b248-2dd54fb3c458" weightsEnabled="false">
+    <weighted-embedded-action uid="39c3760c-4db3-4ed3-a942-6fdeeba942e8"/>
+    <weighted-embedded-action uid="e4a53ee9-4011-430e-86b0-6a3f0131ba2c"/>
+</basic-logical-action-container>

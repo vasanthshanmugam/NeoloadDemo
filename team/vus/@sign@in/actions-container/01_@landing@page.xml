@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="01_LandingPage" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="cd402048-1f4b-44e8-b2ac-82ef36da30bb" weightsEnabled="false">
+    <weighted-embedded-action uid="f37817ba-fc99-4a93-9624-4fa19b59a91c"/>
+    <weighted-embedded-action uid="6afa6d6c-c5a0-4b6b-9d2e-8cd14c7547d4"/>
+    <weighted-embedded-action uid="d02aa9a8-a47f-4664-8a6e-2d767447e389"/>
+</basic-logical-action-container>

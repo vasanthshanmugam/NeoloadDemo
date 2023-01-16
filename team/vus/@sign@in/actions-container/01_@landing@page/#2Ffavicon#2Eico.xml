@@ -1,0 +1,40 @@
+<http-page enabled="false" executeResourcesDynamically="false"
+    name="/favicon.ico" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@sign@in/%resources%/recorded-artifacts/d02aa9a8-a47f-4664-8a6e-2d767447e389.zip"
+    slaProfileEnabled="false" thinkTime="1688"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d02aa9a8-a47f-4664-8a6e-2d767447e389">
+    <embedded-action>85fa0924-e64a-48e7-be78-3b1a5ba00797</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/favicon.ico" path="/favicon.ico" postType="6"
+    recordedArtifactZipFileName="team/vus/@sign@in/%resources%/recorded-artifacts/d02aa9a8-a47f-4664-8a6e-2d767447e389.zip"
+    recordedResponseCode="404" responseSize="762"
+    serverUid="petstore.octoperf.com" slaProfileEnabled="false"
+    uid="85fa0924-e64a-48e7-be78-3b1a5ba00797" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1cfe998c-ee0e-4235-ab2a-800ac880795d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1cfe998c-ee0e-4235-ab2a-800ac880795d.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://petstore.octoperf.com/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;107&quot;, &quot;Chromium&quot;;v=&quot;107&quot;, &quot;Not=A?Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="SL_G_WPT_TO=en"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 404&#xd;
+date: Mon, 05 Dec 2022 23:17:07 GMT&#xd;
+content-type: text/html;charset=utf-8&#xd;
+content-length: 762&#xd;
+content-language: en&#xd;
+strict-transport-security: max-age=15724800; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

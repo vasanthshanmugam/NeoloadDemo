@@ -1,0 +1,5 @@
+<variable-list name="Accounts" offset="1" order="3" policy="4" range="1" uid="2af2a1a8-8130-48fc-9f78-5f282cc98095" whenOutOfValues="CYCLE_VALUES">
+<column name="password" number="1"/>
+<column name="username" number="0"/>
+<values><![CDATA[rO0ABXVyABRbW0xqYXZhLmxhbmcuU3RyaW5nOzJNCa2EMuRXAgAAeHAAAAABdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAA29uZXQAA29uZQ==]]></values>
+</variable-list>
